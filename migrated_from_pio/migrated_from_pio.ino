@@ -10,8 +10,8 @@
 
 #define INPUT_PIN       9
 #define BROKER_ADDR     IPAddress(192,168,1,28)
-#define WIFI_SSID       "Airtel_aabi_2066"
-#define WIFI_PASSWORD   "air38981"
+#define WIFI_SSID       "Airtel_Abishek"
+#define WIFI_PASSWORD   "9840782066"
 #define HA_USER         "akash"
 #define HA_PASS         "akash"
 
